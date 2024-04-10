@@ -13,12 +13,6 @@
         android:theme="@style/Theme.Viikko12"
         tools:targetApi="31">
         <activity
-            android:name=".ListGroceryActivity"
-            android:exported="false" />
-        <activity
-            android:name=".AddGroceryActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
